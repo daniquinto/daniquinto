@@ -9,17 +9,7 @@
   />
 </p>
 
-<!-- Floating Sparkle Illusion -->
-<p align="center" style="margin-top:-6px; margin-bottom:12px;">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
-    width="0" height="0"
-  />
-  <img 
-    src="https://capsule-render.vercel.app/api?type=slice&height=22&color=0:ec4899,100:f9a8d4" 
-    width="65%" 
-  />
-</p>
+
 
 <!-- Typing animation -->
 <p align="center" style="margin-top:6px; margin-bottom:14px;">
